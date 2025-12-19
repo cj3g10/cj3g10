@@ -59,35 +59,35 @@ Most of my professional work is strictly proprietary and hosted in private repos
 
 ### Portfolio Highlights
 
-#### SmarTone CARE App
+#### SmarTone CARE
 > *The primary self-service app for one of Hong Kong's largest telecom providers.*
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smartone.smartonecare) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/hk/app/smartone-care/id1171031993?l=en-GB)
 
 * **Role:** Lead Mobile Developer
-* **Tech:** KMP, Jetpack Compose.
+* **Tech:** KMP, Jetpack Compose, Clean Architecture.
 * **Impact:** Unified business logic across platforms using KMP; utilized Jetpack Compose to architect a modern, declarative Android UI for account management, including bill payments, data usage monitoring, and roaming service subscriptions.
 
-#### Standard Chartered HK Marathon (2024-2026)
+#### Standard Chartered Hong Kong Marathon (2024-2026)
 > *The official app for Hong Kong's largest sporting event.*
 
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hkmarathon.schkm2024) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/hk/app/schkm2025-official-app/id6475163702?l=en-GB)
 
 * **Role:** Lead Mobile Developer
-* **Tech:** KMP, Jetpack Compose (Android UI), SwiftUI (iOS UI).
+* **Tech:** KMP, Jetpack Compose, SwiftUI.
 * **Impact:** Built a robust registration and runner's pack collection system handling massive concurrent user spikes during event registration.
 
-#### HSBC NFC Name Card System
+#### HSBC NFC Name Card
 > *Internal enterprise tool for staff identity management.*
 * **Role:** Lead Mobile Developer
-* **Tech:** Full KMP Stack (Android, iOS, Desktop, Web), Compose Multiplatform (CMP) for UI.
+* **Tech:** Full KMP Stack (Android, iOS, Desktop, Web), Compose Multiplatform (CMP).
 * **Impact:** Engineered a cross-platform system allowing staff to write/read data to NFC cards and print physical cards via a desktop application.
 
 #### Stay Home Safe
 > *Quarantine enforcement app used in Hong Kong to combat COVID-19.*
 * **Role:** Senior Mobile Developer
 * **Tech:** Java, Geofencing, Bluetooth (BLE) Wristband Pairing.
-* **Impact:** Developed critical IoT integration to track user location within designated quarantine zones using paired electronic wristbands.
+* **Impact:** Developed for the Hong Kong Government to combat COVID-19, tracking users within designated geofence areas using paired Bluetooth wristbands to ensure quarantine compliance.
 
 #### MOKO & YOHO Mall Navigation
 > *Indoor positioning and AR navigation for major shopping malls.*
@@ -98,6 +98,13 @@ Most of my professional work is strictly proprietary and hosted in private repos
 * **Role:** Senior Mobile Developer
 * **Tech:** Kotlin, Swift, AR, Indoor Positioning SDK.
 * **Impact:** Implemented accurate indoor wayfinding using WiFi fingerprinting and AR indicators to guide shoppers to specific shops and restaurants.
+
+<br>
+<div align="center">
+  <h3>
+    <a href="Portfolio.md">View Full Technical Portfolio</a>
+  </h3>
+</div>
 
 ---
 

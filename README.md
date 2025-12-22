@@ -109,5 +109,4 @@ Most of my professional work is strictly proprietary and hosted in private repos
 ---
 
 ### Connect with me
-* [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE)
 * [Email](mailto:cheukhinjim@gmail.com)

@@ -4,6 +4,15 @@
 
 ---
 
+### Donovans
+> *Wholesale Stocktake & Quotation Manager*
+
+**Tech Stack:** SwiftUI, Adaptive Layouts, RFID Integration, Offline Sync
+
+A specialized B2B application built with **SwiftUI**, featuring adaptive layouts optimized for both iPhone and iPad. Engineered with an **Offline-First** architecture, it enables seamless inventory scanning for quotations and stocktake via external **RFID** readers or the device's camera, ensuring automatic data synchronization upon reconnection.
+
+---
+
 ### SmarTone CARE
 > *The primary self-service app for one of Hong Kong's largest telecom providers.*
 

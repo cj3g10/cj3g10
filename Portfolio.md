@@ -1,6 +1,6 @@
 # Technical Portfolio
 ### Cheuk-Hin Jim
-**Technical Manager | Lead Mobile Architect**
+**Technical Manager, Mobile Team**
 
 ---
 
@@ -16,6 +16,8 @@ A specialized B2B application built with **SwiftUI**, featuring adaptive layouts
 ### SmarTone CARE
 > *The primary self-service app for one of Hong Kong's largest telecom providers.*
 
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smartone.smartonecare) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/hk/app/smartone-care/id1171031993?l=en-GB)
+
 **Tech Stack:** KMP, Jetpack Compose, GraphQL, SQLite
 
 Utilized **Jetpack Compose** to architect a modern, declarative Android UI and unify complex business logic (roaming, billing, data usage) across iOS and Android using a shared **KMP** core.
@@ -24,6 +26,8 @@ Utilized **Jetpack Compose** to architect a modern, declarative Android UI and u
 
 ### Standard Chartered Hong Kong Marathon (2024-2026)
 > *The official app for Hong Kong's largest annual sporting event.*
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hkmarathon.schkm2024) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/hk/app/schkm2025-official-app/id6475163702?l=en-GB)
 
 **Tech Stack:** KMP, Jetpack Compose, SwiftUI, SQLite
 
@@ -43,6 +47,8 @@ Leveraged **Compose Multiplatform** to build a unified cross-platform system, wh
 ### Langham Place
 > *Mall Loyalty & Lifestyle App*
 
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.langhamplace.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/%E6%9C%97%E8%B1%AA%E5%9D%8A/id383869661)
+
 **Tech Stack:** Kotlin, ML Kit
 
 The official mobile application for Langham Place, providing the latest happenings and store directories, while utilizing **ML Kit** to enable a smart receipt scanning feature for loyalty point accumulation.
@@ -51,6 +57,8 @@ The official mobile application for Langham Place, providing the latest happenin
 
 ### Team Challenge 36 (團隊挑戰36)
 > *Offline-First Event Companion*
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=hk.org.bgca.teamchallenge) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/hk/app/%E5%9C%98%E9%9A%8A%E6%8C%91%E6%88%B036/id6444505626)
 
 **Tech Stack:** KMP, iBeacon, SQLite, Offline Sync
 
@@ -69,6 +77,8 @@ The official mobile application for Adrien Gagnon. A standard e-commerce app all
 
 ### Hospital Authority (HA) Location Map
 > *Hybrid Indoor Navigation for Hospital*
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=hk.org.ha.hago) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/gb/app/ha-go/id1469340861)
 
 **Tech Stack:** React Native, Location Services
 
@@ -106,6 +116,9 @@ Interactive kiosks deployed in major malls in Hong Kong (MOKO, YOHO, Hong Kong L
 ### MOKO & YOHO Mall Navigation
 > *Indoor positioning and AR navigation for major shopping malls.*
 
+**MOKO:** [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.compathnion.moko) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/hk/app/moko-map/id1450894696?l=en-GB)
+<br>**YOHO:** [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.compathnion.yoho) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/hk/app/yoho-map/id1449958595?l=en-GB)
+
 **Tech Stack:** Kotlin, Swift, AR, Indoor Positioning SDK
 
 A shopping mall app that provides shopping directories and indoor maps with real-time positioning. It offers navigation to destination POIs, with the option to display visual instructions and wayfinding markers via **AR**.
@@ -123,6 +136,8 @@ A service booking platform connecting merchants and customers. It allows merchan
 
 ### Hong Kong Discuss (香討)
 > *Hong Kong's #1 Forum Platform*
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=networld.discuss2.app) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/%E9%A6%99%E8%A8%8E/id623777225)
 
 **Tech Stack:** React Native, Native Integration (Java/Obj-C)
 

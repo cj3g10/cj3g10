@@ -4,6 +4,21 @@
 
 ---
 
+## Open Source
+
+### mRA - My Reddit App
+> *A personal, open source third-party Reddit client.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cj3g10/mRA)
+
+**Tech Stack:** Kotlin Multiplatform, Compose Multiplatform, Ktor, Koin, SQLDelight
+
+A hobby project built for my own personal use to browse Reddit, and open-sourced along the way. A fully shared Android and iOS app — covering subreddit feeds, threaded comments, media overlays, and custom Reddit-flavored Markdown rendering, all from one Kotlin codebase.
+
+---
+
+## Professional / Client Work
+
 ### Donovans
 > *Wholesale Stocktake & Quotation Manager*
 

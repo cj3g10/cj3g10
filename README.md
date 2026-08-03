@@ -1,7 +1,7 @@
 # Hi, I'm Cheuk-Hin Jim
 ### Technical Manager | Mobile Architect | KMP Specialist | 10+ Years Exp.
 
-I am a seasoned Mobile Application Architect and Team Lead based in Hong Kong, specializing in complex, high-traffic ecosystems for enterprise clients in **Telecommunications, Banking, and Smart Retail**. Currently, I serve as the **Technical Manager** at DigiSalad Solutions, leading development teams and architecting robust cross-platform solutions.
+I am a seasoned Mobile Application Architect and Team Lead based in Hong Kong, specialising in complex, high-traffic ecosystems for enterprise clients in **Telecommunications, Banking, and Smart Retail**. Currently, I serve as the **Technical Manager, Mobile Team** at DigiSalad Solutions, leading development teams and architecting robust cross-platform solutions.
 
 **Core Focus:**
 * **Kotlin Multiplatform (KMP)** for unified business logic
@@ -25,28 +25,56 @@ Most of my professional work is strictly proprietary and hosted in private repos
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Mobile Frameworks**
+**Platforms & Frameworks**
 <br>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Core Tech & Architecture**
+**UI & Concurrency**
 <br>
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-1575F9?style=for-the-badge&logo=swift&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-**Specialized Capabilities**
+**Architecture & Tooling**
 <br>
-![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-![NFC RFID](https://img.shields.io/badge/NFC_%2F_RFID-00517E?style=for-the-badge&logo=nfc&logoColor=white)
-![Location](https://img.shields.io/badge/Location_&_Geofencing-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-4A4A4A?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4A4A4A?style=for-the-badge)
+![Modularisation](https://img.shields.io/badge/Modularisation-4A4A4A?style=for-the-badge)
+![Dependency Injection](https://img.shields.io/badge/Dependency_Injection_(Koin)-4A4A4A?style=for-the-badge)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+**Data & Networking**
+<br>
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4A4A4A?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4A4A4A?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite_(Room_/_SQLDelight)-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Hardware, Location & Spatial**
+<br>
+![Bluetooth LE / iBeacon](https://img.shields.io/badge/Bluetooth_LE_/_iBeacon-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![NFC RFID](https://img.shields.io/badge/NFC_%2F_RFID_Reading_%26_Writing-00517E?style=for-the-badge&logo=nfc&logoColor=white)
+![Camera QR](https://img.shields.io/badge/Camera_(QR_Scanning)-4A4A4A?style=for-the-badge)
+![Indoor Positioning](https://img.shields.io/badge/Indoor_Positioning-4A4A4A?style=for-the-badge)
+![Geofencing](https://img.shields.io/badge/Geofencing-4A4A4A?style=for-the-badge)
 ![AR](https://img.shields.io/badge/ARCore_/_ARKit-5E35B1?style=for-the-badge&logo=googlelens&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Google Maps / Mapbox](https://img.shields.io/badge/Google_Maps_/_Mapbox-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+**Quality & Delivery**
+<br>
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Testing](https://img.shields.io/badge/Unit_%26_UI_Testing_(Mockito%2C_XCTest%2C_XCUITest)-4A4A4A?style=for-the-badge)
+![Firebase Crashlytics](https://img.shields.io/badge/Firebase_Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00A0FF?style=for-the-badge&logo=fastlane&logoColor=white)
 
 ---
 
@@ -58,6 +86,15 @@ Most of my professional work is strictly proprietary and hosted in private repos
 ---
 
 ### Portfolio Highlights
+
+#### mRA - My Reddit App
+> *An open source app built for personal use as a 3rd party Reddit app.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cj3g10/mRA)
+
+* **Role:** Solo Developer
+* **Tech:** Kotlin Multiplatform, Compose Multiplatform, Ktor, Koin, SQLDelight
+* **Impact:** Full end-to-end KMP architecture built solo and open-sourced — subreddit browsing, threaded comments, media overlays, and custom Reddit-flavored Markdown rendering, sharing one Kotlin codebase across Android and iOS.
 
 #### SmarTone CARE
 > *The primary self-service app for one of Hong Kong's largest telecom providers.*
